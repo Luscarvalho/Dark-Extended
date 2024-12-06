@@ -2,22 +2,30 @@
   "name": "Dark Extended",
   "colors": {
     "activityBar.background": "#202020",
+    "button.background": "#0078D4",
+    "button.foreground": "#FFFFFF",
+    "button.hoverBackground": "#026EC1",
     "dropdown.background": "#202020",
-    "dropdown.foreground": "#d2d2d2",
+    "dropdown.foreground": "#CCCCCC",
     "editor.background": "#202020",
     "editorGroupHeader.tabsBackground": "#202020",
     "editorWidget.background": "#202020",
-    "menu.border": "#d8d8d84a",
-    "menu.selectionBackground": "#0078d4",
+    "menu.background": "#202020",
+    "menu.border": "#454545",
+    "menu.foreground": "#CCCCCC",
+    "menu.selectionBackground": "#0078D4",
+    "menu.separatorBackground": "#454545",
     "panel.background": "#202020",
+    "scrollbar.shadow": "#202020",
     "sideBar.background": "#202020",
     "sideBarSectionHeader.background": "#202020",
-    "scrollbar.shadow": "#202020",
     "statusBar.background": "#202020",
     "statusBarItem.remoteBackground": "#202020",
-    "titleBar.activeBackground": "#202020",
-    "tab.activeBackground": "#202020",
-    "tab.inactiveBackground": "#202020"
+    "debugToolBar.background": "#202020",
+    "tab.activeBorder": "#202020",
+    "tab.activeBorderTop": "#CCCCCC",
+    "tab.inactiveBackground": "#202020",
+    "titleBar.activeBackground": "#202020"
   },
   "tokenColors": [
     {
@@ -39,7 +47,7 @@
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#1111"
       }
     },
     {
