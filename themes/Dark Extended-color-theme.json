@@ -1,31 +1,23 @@
 {
   "name": "Dark Extended",
   "colors": {
-    "activityBar.background": "#212121",
-
-    "dropdown.background": "#212121",
-
-    "editor.background": "#212121",
-    "editorGroupHeader.tabsBackground": "#212121",
-    "editorWidget.background": "#212121",
-
-    "gitDecoration.ignoredResourceForeground": "#808080",
-
-    "panel.background": "#212121",
-
-    "sideBar.background": "#212121",
-    "sideBar.foreground": "#d8d8d8",
-    "sideBarSectionHeader.background": "#212121",
-
-    "scrollbar.shadow": "#212121",
-
-    "statusBar.background": "#212121",
-    "statusBarItem.remoteBackground": "#212121",
-
-    "titleBar.activeBackground": "#212121",
-
-    "tab.activeBackground": "#212121",
-    "tab.inactiveBackground": "#212121"
+    "activityBar.background": "#202020",
+    "dropdown.background": "#202020",
+    "dropdown.foreground": "#d2d2d2",
+    "editor.background": "#202020",
+    "editorGroupHeader.tabsBackground": "#202020",
+    "editorWidget.background": "#202020",
+    "menu.border": "#d8d8d84a",
+    "menu.selectionBackground": "#0078d4",
+    "panel.background": "#202020",
+    "sideBar.background": "#202020",
+    "sideBarSectionHeader.background": "#202020",
+    "scrollbar.shadow": "#202020",
+    "statusBar.background": "#202020",
+    "statusBarItem.remoteBackground": "#202020",
+    "titleBar.activeBackground": "#202020",
+    "tab.activeBackground": "#202020",
+    "tab.inactiveBackground": "#202020"
   },
   "tokenColors": [
     {
