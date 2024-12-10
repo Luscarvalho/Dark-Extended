@@ -9,3 +9,11 @@
 ### [0.0.3] - 06-12-2024
 
 - New colors
+
+### [0.0.4] - 07-12-2024
+
+- New icon and Readme
+
+### [0.0.5] - 10-12-2024
+
+- New border in side

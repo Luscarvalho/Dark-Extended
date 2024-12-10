@@ -18,6 +18,7 @@
     "panel.background": "#202020",
     "scrollbar.shadow": "#202020",
     "sideBar.background": "#202020",
+    "sideBar.border": "#303030",
     "sideBarSectionHeader.background": "#202020",
     "statusBar.background": "#202020",
     "statusBarItem.remoteBackground": "#202020",
